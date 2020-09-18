@@ -10,7 +10,9 @@ Cara penggunaan:
 - Ganti google-services.json
 - Ganti id admob dan unit iklan format Banner & Interstisial
 
-Siap Publish ke Play Store
+Siap Publish ke Play Store & monetize :)
 
-Demo:
+Demo: https://play.google.com/store/apps/details?id=com.stickersbyus.freshanduniquestickersforwhatsapp
+
+
 
