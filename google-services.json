@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "884559767219",
+    "firebase_url": "https://stickers-for-whatsapp-df767.firebaseio.com",
+    "project_id": "stickers-for-whatsapp-df767",
+    "storage_bucket": "stickers-for-whatsapp-df767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884559767219:android:5a0bbf0a15b2acad7872c6",
+        "android_client_info": {
+          "package_name": "com.stickersbyus.freshanduniquestickersforwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884559767219-m3e38avqkjtihh80ara8qocvvfkv6llm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfLp5eLfVnq2pITH9misD6XHwe5Kkikw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884559767219-m3e38avqkjtihh80ara8qocvvfkv6llm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9838839741190384~2853311397"
+    }
+  ],
+  "configuration_version": "1"
+}

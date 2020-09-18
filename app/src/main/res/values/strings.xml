@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Fresh and unique stickers for whatsapp</string>
+    <string name="tray_image_content_description">Sticker Pack Tray Image</string>
+     <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="add_button_content_description">Add sticker pack to WhatsApp</string>
+    <plurals name="title_activity_sticker_packs_list">
+        <item quantity="one">Sticker Pack</item>
+        <item quantity="other">Sticker Packs</item>
+    </plurals>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Sticker details</string>
+    <string name="details_pack_already_added">Sticker pack added to WhatsApp</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Sticker pack not added. If you\'d like to add it, make sure you update to the latest version of WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Update</string>
+    <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
+
+    <string name="admob_id">ca-app-pub-9838839741190384~2853311397</string>
+    <string name="banner_id">ca-app-pub-9838839741190384/7722494699</string>
+    <string name="interstatial_id">ca-app-pub-9838839741190384/4713187979</string>
+
+</resources>
