@@ -13,6 +13,6 @@ Cara penggunaan:
 Siap Publish ke Play Store
 
 Demo: 
-<a href="./img/play-store.png"><img src="./img/play-store.png" width="30%" /><a href="./img/play-store.png"><a href="https://play.google.com/store/apps/details?id=com.stickersbyus.freshanduniquestickersforwhatsapp"></a>
+<a href="./img/play-store.png"><img src="./img/play-store.png" width="30%" /><a href="https://play.google.com/store/apps/details?id=com.stickersbyus.freshanduniquestickersforwhatsapp"></a>
 
 
