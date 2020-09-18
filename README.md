@@ -12,5 +12,6 @@ Cara penggunaan:
 
 Siap Publish ke Play Store
 
-Demo:
+Demo: <a href="./img/play-store.png"><img src="./img/play-store.png" width="30%" /><a href="./img/play-store.png">https://play.google.com/store/apps/details?id=com.stickersbyus.freshanduniquestickersforwhatsapp</a>
+
 
