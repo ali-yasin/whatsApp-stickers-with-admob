@@ -8,7 +8,7 @@ Feature:
 Cara penggunaan:
 - Clone projek ini di Android Studio
 - Ganti google-services.json
-- Ganti id admob dan unit iklan format Banner & Interstisial
+- Ganti id admob dan unit iklan format Banner juga Interstisial
 
 Siap Publish ke Play Store & monetize :)
 
