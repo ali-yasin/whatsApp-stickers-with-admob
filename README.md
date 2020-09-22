@@ -1,18 +1,16 @@
-WhatsApp Stickers
+[<img width="300px" src="https://raw.githubusercontent.com/julesbond007/Android-Jigsaw-Puzzle/master/docs/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.stickersbyus.freshanduniquestickersforwhatsapp)
 
-Feature:
-- [x] In app update (flexible)
-- [x] Terintegrasi dengan admob dengan format Banner & Interstisial
-- [x] Terintegrasi dengan push notification firebase
+## What is this?
+WhatsApp Stickers with admob
 
-Cara penggunaan:
+## Feature:
+- [x] in app update (flexible)
+- [x] admob with Banner & Interstitial format
+- [x] push notification firebase
+
+## Compiling
 - Clone projek ini di Android Studio
 - Ganti google-services.json
 - Ganti id admob dan unit iklan format Banner juga Interstisial
 
 Siap Publish ke Play Store & monetize :)
-
-Demo: https://play.google.com/store/apps/details?id=com.stickersbyus.freshanduniquestickersforwhatsapp
-
-
-
