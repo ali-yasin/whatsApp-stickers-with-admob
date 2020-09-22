@@ -8,9 +8,21 @@ WhatsApp Stickers with admob
 - [x] admob with Banner & Interstitial format
 - [x] push notification firebase
 
-## Compiling
-- Clone projek ini di Android Studio
-- Ganti google-services.json
-- Ganti id admob dan unit iklan format Banner juga Interstisial
-
-Siap Publish ke Play Store & monetize :)
+### Compiling
+Just clone the repository and import the project in Android Studio
+```sh
+https://github.com/ali-yasin/whatsApp-stickers-with-admob.git
+```
+ Change your google-services.json
+```sh
+https://firebase.google.com/docs/android/setup
+```
+Change the admob id and Banner and Interstitial ad units
+```sh
+https://admob.google.com/home/
+```
+Create your sticker packs
+```sh
+https://faq.whatsapp.com/general/how-to-create-stickers-for-whatsapp
+```
+Publish your sticker app to play store and monetize
